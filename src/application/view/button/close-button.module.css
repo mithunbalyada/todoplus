@@ -1,0 +1,11 @@
+.closeButton {
+	font-size: 0.8em;
+	font-weight: bold;
+	color: white;
+	cursor: pointer;
+	padding: 0 5px 0 5px;
+}
+
+.closeButton:hover {
+	color: grey;
+}

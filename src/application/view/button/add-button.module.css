@@ -1,0 +1,15 @@
+.todoAddButton {
+	color: white;
+	background-color: #cfdbd5;
+	width: 35px;
+	text-align: center;
+	height: 35px;
+	font-size: 1.6em;
+	border-radius: 20px;
+	padding: 0;
+	cursor: pointer;
+}
+
+.todoAddButton:hover {
+	color: #333533;
+}
